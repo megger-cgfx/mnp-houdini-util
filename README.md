@@ -1,4 +1,9 @@
 # mnp-houdini-util
-Houdini Pipeline Utilities for diploma project "Mother Nature's Power" (2022)
+Upload of old Houdini Pipeline Utilities and tools for diploma project "Mother Nature's Power" (2022)
 
-https://www.youtube.com/watch?v=qTUVIT5lh6Y&t=1340s
+## FMX Talk 2021 (Timestamps 22m20s ~ 23m24s)
+https://www.youtube.com/watch?v=qTUVIT5lh6Y&t=22m20s
+
+[![FMX Talk thumbnail](./media/YT_thumbnail.png)](https://www.youtube.com/watch?v=qTUVIT5lh6Y&t=1340s)
+
+![Filecache Info](./media/filecache_info.png)
